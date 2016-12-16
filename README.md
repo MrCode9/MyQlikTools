@@ -1,2 +1,2 @@
 # MyQlikTools
-To capture best Qlik scripts, expressions and techniques
+To develop or capture best Qlik scripts, expressions and techniques.
